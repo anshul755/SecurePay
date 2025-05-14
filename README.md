@@ -76,7 +76,7 @@ A demo React app is included to show how easily developers can connect to the wa
 
 ## 👨‍💻 Team: Divine Dhyana
 
-- Anshul Patel  
-- Chaitya Shah  
-- Het Shah  
-- Ruksh Dakhara
+- [Anshul Patel](https://github.com/anshul755)  
+- [Chaitya Shah](https://github.com/chaitya2208)  
+- [Het Shah](https://github.com/hhshah2809)  
+- [Ruksh Dakhara](https://github.com/ruksh1729)
